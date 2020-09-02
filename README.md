@@ -1,7 +1,6 @@
 ## if you wanna rate me check this project 30 days PHP only
 
-## user : mmasokdoa
-## pass: mmasokdoa
+# please read how to use section before download it
 
 
 
