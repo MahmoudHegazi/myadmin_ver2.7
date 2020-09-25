@@ -1,10 +1,6 @@
-## if you wanna rate me check this project 30 days PHP only
+MyAdmin PHP APP for IT department.
 
-# please read how to use section before download it
-
-
-
-#omg
+# please read how to use APP before download it
 
 *  I did in 10 lines something could take at least 4 pages to make it and more tables database
 *  by using update we can now send device to matinace and autimaitc avail = n and vice versa app awesome
