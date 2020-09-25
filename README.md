@@ -53,3 +53,14 @@ you need laragon only to use it
 
 * user: mmasokdoa
 * pass: mmasokdoa
+
+
+
+
+<img src="myadmin11.PNG">
+<img src="myadmin13.PNG">
+<img src="myadmin30.PNG">
+<img src="myadmin15.PNG">
+<img src="myapp22.PNG">
+<img src="myapp2222.PNG">
+<img src="myfi1.PNG">
