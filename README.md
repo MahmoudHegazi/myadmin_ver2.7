@@ -1,5 +1,5 @@
 MyAdmin PHP APP for IT department.
-<img src="myfi1.PNG">
+<img src="myadmin11.PNG">
 
 
 # please read how to use APP before download it
