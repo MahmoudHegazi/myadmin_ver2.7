@@ -2,6 +2,8 @@ MyAdmin PHP APP for IT department.
 <img src="myadmin11.PNG">
 
 
+## Download Only version 2.7
+
 # please read how to use APP before download it
 
 *  I did in 10 lines something could take at least 4 pages to make it and more tables database
