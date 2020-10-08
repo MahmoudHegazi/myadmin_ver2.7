@@ -4,9 +4,12 @@ MyAdmin PHP APP for IT department.
 
 ## Download Only version 2.7
 
-## How to login 
-username: mmasokdoa
-password: mmasokdoa
+## How to setup:
+* use largon
+* in phpMyadmin import database file included inside the app root dirctory (myadmin_db_ver2.7) create the db with name (myadmin)
+* login in user and pass:
+* username: mmasokdoa
+* password: mmasokdoa
 
 # please read how to use APP before download it
 
