@@ -10,6 +10,7 @@ MyAdmin PHP APP for IT department.
 * login in user and pass:
 * username: mmasokdoa
 * password: mmasokdoa
+* note not allowed to create user without login (it's not public app)
 
 # please read how to use APP before download it
 
