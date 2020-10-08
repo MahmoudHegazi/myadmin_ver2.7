@@ -4,6 +4,10 @@ MyAdmin PHP APP for IT department.
 
 ## Download Only version 2.7
 
+## How to login 
+username: mmasokdoa
+password: mmasokdoa
+
 # please read how to use APP before download it
 
 *  I did in 10 lines something could take at least 4 pages to make it and more tables database
